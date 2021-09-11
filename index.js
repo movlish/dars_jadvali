@@ -8,4 +8,4 @@ app.use(helmet());
 require('dotenv').config()
 
 require('./main')
-require('./prod')(app);
+//require('./prod')(app);
